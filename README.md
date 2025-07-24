@@ -20,11 +20,16 @@ An opinionated list of everything awesome about RGB.
 * Wallet
     * [Bitmask](https://bitmask.app) - BitMask wallet, your Bitcoin swiss army knife.
     * [Bitlight Labs](https://bitlightlabs.com/) - Make Bitcoin Smart
-    * [Bitcoin Tribe](https://bitcointribe.app) - Tribe RGB offers self-custody as the default setting, with the On-Chain wallet as the primary mode for secure Bitcoin and RGB asset management.
+    * [Bitcoin Tribe](https://bitcointribe.app) - Tribe RGB offers self-custody for secure Bitcoin and RGB asset management.
+    * [Pandora Prime](https://pandoraprime.ch/) - Empowering Individuals
+    * [Ray Wallet](https://raywallet.app/) - The easiest way to start using RGB.
+    * [MyCitadel](https://mycitadel.io/) - Ultimate digital sovereignity
+    * [Iris Wallet](https://play.google.com/store/apps/details?id=com.iriswallet.testnet&pli=1) - Iris Wallet supports RGB asset
 * Trading Platform
-    * [DIBA](https://diba.io) - DIBA is the first marketplace on Bitcoin using RGB Smart Contract Protocol and Lightning Network to exchange Unique Digital Assets (UDAs).
-    * [Kaleidoswap](https://kaleidoswap.com/) - Kaleidoswap is the first decentralized trading platform that combines Bitcoin's security, Lightning Network's speed, and RGB Protocol programmability in a single open-source desktop application that gives you complete control over your assets.
-* Cloud Services
+    * [DIBA](https://diba.io) - DIBA is the first marketplace on Bitcoin using RGB Smart Contract Protocol and Lightning Network to exchange UDAs.
+    * [Kaleidoswap](https://kaleidoswap.com/) - Kaleidoswap is the first decentralized RGB Protocol trading platform in  desktop application.
+    * [LNFI](https://lnfi.network/) - An all-in-one financial layer for Taproot + RGB Assets
+* Cloud Service
     * [Thunderstack](https://thunderstack.org/) - The first Bitcoin-native infrastructure provider offering robust APIs and developer tools to build on cutting-edge Bitcoin Layers.
  
 ## Projects
