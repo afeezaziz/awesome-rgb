@@ -72,7 +72,10 @@ Where to discover learning resources or where you can find more people and talk 
 
 # My others awesome lists
 
-[Awesome Taproot Assets](https://github.com/afeezaziz/awesome-taproot-asset)
+*List of all awesome lists that I maintain*
+
+* [Awesome Taproot Assets](https://github.com/afeezaziz/awesome-taproot-asset)
+* [Awesome AI][https://github.com/afeezaziz/awesome-ai]
 
 # Contributing
 
@@ -81,5 +84,5 @@ Your contributions are always welcome! Please take a look at the [contribution g
 # Contributors
 
 <a align="center" href="https://github.com/afeezaziz/awesome-rgb/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=afeezaziz/awesome-rgb-protocol" />
+  <img src="https://contrib.rocks/image?repo=afeezaziz/awesome-rgb" />
 </a>
