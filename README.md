@@ -3,7 +3,7 @@
 An opinionated list of everything awesome about RGB.
 
 - [Awesome RGB](#awesome-rgb)
-    - [Products](#products)
+    - [Platforms](#platforms)
     - [Projects](#projects)
 - [Resources](#resources)
     - [Social Media](#social-media)
@@ -15,45 +15,19 @@ An opinionated list of everything awesome about RGB.
 
 ## Products
 
-*Python implementation of data structures, algorithms and design patterns. Also see [awesome-algorithms](https://github.com/tayllan/awesome-algorithms).*
-
-* Algorithms
-    * [algorithms](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms.
-    * [python-ds](https://github.com/prabhupant/python-ds) - A collection of data structure and algorithms for coding interviews.
-    * [sortedcontainers](https://github.com/grantjenks/python-sortedcontainers) - Fast and pure-Python implementation of sorted collections.
-    * [thealgorithms](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python.
-* Design Patterns
-    * [pypattyrn](https://github.com/tylerlaberge/PyPattyrn) - A simple yet effective library for implementing common design patterns.
-    * [python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns in Python.
-    * [transitions](https://github.com/pytransitions/transitions) - A lightweight, object-oriented finite state machine implementation.
+TODO
  
-## RGB20 Projects
+## Projects
 
 *Python implementation of data structures, algorithms and design patterns. Also see [awesome-algorithms](https://github.com/tayllan/awesome-algorithms).*
 
-* Algorithms
-    * [algorithms](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms.
-    * [python-ds](https://github.com/prabhupant/python-ds) - A collection of data structure and algorithms for coding interviews.
-    * [sortedcontainers](https://github.com/grantjenks/python-sortedcontainers) - Fast and pure-Python implementation of sorted collections.
-    * [thealgorithms](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python.
-* Design Patterns
-    * [pypattyrn](https://github.com/tylerlaberge/PyPattyrn) - A simple yet effective library for implementing common design patterns.
-    * [python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns in Python.
-    * [transitions](https://github.com/pytransitions/transitions) - A lightweight, object-oriented finite state machine implementation.
- 
-## RGB21 Projects
-
-*Python implementation of data structures, algorithms and design patterns. Also see [awesome-algorithms](https://github.com/tayllan/awesome-algorithms).*
-
-* Algorithms
-    * [algorithms](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms.
-    * [python-ds](https://github.com/prabhupant/python-ds) - A collection of data structure and algorithms for coding interviews.
-    * [sortedcontainers](https://github.com/grantjenks/python-sortedcontainers) - Fast and pure-Python implementation of sorted collections.
-    * [thealgorithms](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python.
-* Design Patterns
-    * [pypattyrn](https://github.com/tylerlaberge/PyPattyrn) - A simple yet effective library for implementing common design patterns.
-    * [python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns in Python.
-    * [transitions](https://github.com/pytransitions/transitions) - A lightweight, object-oriented finite state machine implementation. 
+* Token
+    * [PPRGB](https://pepe-rgb.wtf/) - $PPRGB is the first memecoin on RGB Protocol
+    * [Bitman](https://bitman.city/) - BitMan is pure art
+    * [CatRGB](https://x.com/TheCATRGB) - The RGB cat memecoin. Just meow 🐾.
+    * [Single Use Seals](https://x.com/Single_Use_Seal) - Single-Use-Seals are cryptographic primitives & pinnipeds.
+* UDA
+    * [RGB GOAT](https://x.com/trydiba/status/1824461482249093292) - Cipher GOATs by DIBA.
 
 # Resources
 
@@ -64,15 +38,15 @@ Where to discover learning resources or where you can find more people and talk 
 * [RGB Community](https://t.me/@rgbtelegram)
 * [Bitmask](https://t.me/@rgbtelegram)
 * [Bitlight Labs](https://t.me/@rgbtelegram)
-* [Bitlight Labs](https://t.me/@rgbtelegram)
 
 ## Influencers
 
-* [RGB Community](https://@rgbtelegram)
+* [Dapangdun](https://x.com/DaPangDunCrypto))
 
 ## Website
 
-* [RGB Community](https://@rgbtelegram)
+* [RGB Tech](https://rgb.tech/)
+* [RGB Info](https://rgb.info/)
 
 
 
