@@ -79,7 +79,7 @@ Where to discover learning resources or where you can find more people and talk 
 
 # Contributing
 
-Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/afeezaziz/awesome-rgb/blob/master/CONTRIBUTING.md) first.
+Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/afeezaziz/awesome-rgb/blob/main/CONTRIBUTING.md) first.
 
 - - -
 
