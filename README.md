@@ -29,6 +29,7 @@ An opinionated list of everything awesome about RGB.
     * [DIBA](https://diba.io) - DIBA is the first marketplace on Bitcoin using RGB Smart Contract Protocol and Lightning Network to exchange UDAs.
     * [Kaleidoswap](https://kaleidoswap.com/) - Kaleidoswap is the first decentralized RGB Protocol trading platform in  desktop application.
     * [LNFI](https://lnfi.network/) - An all-in-one financial layer for Taproot + RGB Assets
+    * [Spectrum](https://t.me/RGBSpectrumBot) - RGB made easy, available via Telegram
 * Cloud Service
     * [Thunderstack](https://thunderstack.org/) - The first Bitcoin-native infrastructure provider offering robust APIs and developer tools to build on cutting-edge Bitcoin Layers.
  
