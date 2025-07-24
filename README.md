@@ -9,7 +9,9 @@ An opinionated list of everything awesome about RGB.
     - [Social Media](#social-media)
     - [Influencers](#influencers)
     - [Websites](#websites)
+- [Awesome Lists](#awesome-lists)
 - [Contributing](#contributing)
+- [Contributors](#contributors)
 
 ---
 
@@ -70,12 +72,12 @@ Where to discover learning resources or where you can find more people and talk 
 * [LNP/BP](https://www.lnp-bp.org/)
 
 
-# My others awesome lists
+# Awesome lists
 
 *List of all awesome lists that I maintain*
 
 * [Awesome Taproot Assets](https://github.com/afeezaziz/awesome-taproot-asset)
-* [Awesome AI][https://github.com/afeezaziz/awesome-ai]
+* [Awesome AI](https://github.com/afeezaziz/awesome-ai)
 
 # Contributing
 
