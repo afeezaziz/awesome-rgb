@@ -70,12 +70,16 @@ Where to discover learning resources or where you can find more people and talk 
 * [LNP/BP](https://www.lnp-bp.org/)
 
 
+# My others awesome lists
 
+[Awesome Taproot Assets](https://github.com/afeezaziz/awesome-taproot-asset)
 
 # Contributing
 
-Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/afeezaziz/awesome-rgb/blob/main/CONTRIBUTING.md) first.
+Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/afeezaziz/awesome-rgb/blob/main/CONTRIBUTING.md) first. If you have any question about this opinionated list, do not hesitate to contact me [@AfeezAziz](https://twitter.com/AfeezAziz) on Twitter or open an issue on GitHub.
 
-- - -
+# Contributors
 
-If you have any question about this opinionated list, do not hesitate to contact me [@AfeezAziz](https://twitter.com/AfeezAziz) on Twitter or open an issue on GitHub.
+<a align="center" href="https://github.com/afeezaziz/awesome-rgb/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=afeezaziz/awesome-rgb-protocol" />
+</a>
