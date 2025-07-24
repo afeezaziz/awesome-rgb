@@ -58,6 +58,7 @@ Where to discover learning resources or where you can find more people and talk 
 ## Influencers
 
 * [Dapangdun](https://x.com/DaPangDunCrypto) - Famous KOL in China, focus on RGB
+* [Pepper](https://x.com/off_thetarget) - Focus on memecoins
 
 ## Website
 
