@@ -62,6 +62,10 @@ Where to discover learning resources or where you can find more people and talk 
 
 * [RGB Tech](https://rgb.tech/)
 * [RGB Info](https://rgb.info/)
+* [RGB Protocol](https://github.com/rgb-protocol)
+* [RGB WG](https://github.com/RGB-WG)
+* [RGB Tools](https://github.com/rgb-tools)
+* [LNP/BP](https://www.lnp-bp.org/)
 
 
 
