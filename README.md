@@ -13,13 +13,23 @@ An opinionated list of everything awesome about RGB.
 
 ---
 
-## Products
+## Platforms
 
-TODO
+*List of all platforms e.g. wallet, trading software, trading platform, or infrastructure built for RGB*
+
+* Wallet
+    * [Bitmask](https://bitmask.app) - BitMask wallet, your Bitcoin swiss army knife.
+    * [Bitlight Labs](https://bitlightlabs.com/) - Make Bitcoin Smart
+    * [Bitcoin Tribe](https://bitcointribe.app) - Tribe RGB offers self-custody as the default setting, with the On-Chain wallet as the primary mode for secure Bitcoin and RGB asset management.
+* Trading Platform
+    * [DIBA](https://diba.io) - DIBA is the first marketplace on Bitcoin using RGB Smart Contract Protocol and Lightning Network to exchange Unique Digital Assets (UDAs).
+    * [Kaleidoswap](https://kaleidoswap.com/) - Kaleidoswap is the first decentralized trading platform that combines Bitcoin's security, Lightning Network's speed, and RGB Protocol programmability in a single open-source desktop application that gives you complete control over your assets.
+* Cloud Services
+    * [Thunderstack](https://thunderstack.org/) - The first Bitcoin-native infrastructure provider offering robust APIs and developer tools to build on cutting-edge Bitcoin Layers.
  
 ## Projects
 
-*Python implementation of data structures, algorithms and design patterns. Also see [awesome-algorithms](https://github.com/tayllan/awesome-algorithms).*
+*List of all projects built on top of RGB. Either RGB20 or RGB21.*
 
 * Token
     * [PPRGB](https://pepe-rgb.wtf/) - $PPRGB is the first memecoin on RGB Protocol
@@ -41,7 +51,7 @@ Where to discover learning resources or where you can find more people and talk 
 
 ## Influencers
 
-* [Dapangdun](https://x.com/DaPangDunCrypto))
+* [Dapangdun](https://x.com/DaPangDunCrypto) - Famous KOL in China, focus on RGB
 
 ## Website
 
